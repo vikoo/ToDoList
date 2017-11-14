@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+
+    <string name="no_todo">No Todo list</string>
+
+    <string name="title_todo_list">Todo List</string>
+    <string name="title_add_todo">Add Todo</string>
+
+    <string name="hint_title">Title</string>
+    <string name="hint_desc">Description</string>
+    <string name="btn_add_todo">Add Todo</string>
+    <string name="todo_add_success">todo added successfully</string>
+
+    <string name="error_todo_title">Please enter valid title</string>
+    <string name="error_todo_desc">Please enter valid description</string>
+
+
+</resources>
