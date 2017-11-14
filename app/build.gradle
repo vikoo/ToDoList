@@ -40,10 +40,6 @@ dependencies {
     apt "android.arch.persistence.room:compiler:1.0.0-alpha9"
     compile 'com.jakewharton.timber:timber:4.5.1'
 
-    // ui libs
-    compile 'com.github.sundeepk:compact-calendar-view:2.0.2.2'
-    compile 'com.truizlop.sectionedrecyclerview:library:1.2.0'
-
     // ui injection
     compile 'com.jakewharton:butterknife:8.8.1'
     annotationProcessor 'com.jakewharton:butterknife-compiler:8.8.1'
